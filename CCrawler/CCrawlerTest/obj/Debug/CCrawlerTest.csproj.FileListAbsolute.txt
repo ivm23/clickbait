@@ -1,0 +1,21 @@
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\CCrawlerTest.exe.config
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\CCrawlerTest.exe
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\CCrawlerTest.pdb
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\obj\Debug\CCrawlerTest.csprojResolveAssemblyReference.cache
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\obj\Debug\CCrawlerTest.exe
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\obj\Debug\CCrawlerTest.pdb
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Core.dll
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Customsearch.v1.dll
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.dll
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.PlatformServices.dll
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.pdb
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.xml
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Core.pdb
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Core.xml
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Customsearch.v1.pdb
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Google.Apis.Customsearch.v1.xml
+c:\users\ivanova.m\documents\visual studio 2015\Projects\CCrawler\CCrawlerTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivanova.M\Documents\GitHub\clickbait\CCrawler\CCrawlerTest\bin\Debug\CCrawlerTest.exe.config
+C:\Users\Ivanova.M\Documents\GitHub\clickbait\CCrawler\CCrawlerTest\obj\Debug\CCrawlerTest.exe
+C:\Users\Ivanova.M\Documents\GitHub\clickbait\CCrawler\CCrawlerTest\obj\Debug\CCrawlerTest.pdb
